@@ -1,0 +1,13 @@
+h1{
+    Color: red;
+    font-size: 18pt;
+}
+.lista{
+    color:brown;
+}
+#id{
+    color:red;
+}
+a:hover{
+    color:yellow;
+}

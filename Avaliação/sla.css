@@ -1,0 +1,26 @@
+.barra{
+    padding: 20px;
+    border: 3px hidden;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid;
+    display: flex;
+    
+} 
+ 
+.logo{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.tabela{
+    border: 2px hidden;
+    justify-content: flex-end;
+    
+}
+
+.texto{
+    color: rgb(231, 78, 78);
+    display: flex;
+    justify-content: flex-start;
+}
